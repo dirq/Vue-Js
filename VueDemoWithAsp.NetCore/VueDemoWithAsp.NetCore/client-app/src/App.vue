@@ -20,7 +20,7 @@ export default {
 <style>
     body{
         font-family:'Comic Sans MS';
-        color:pink;
+        color:red;
     }
     .newapp{
         text-align:center;
