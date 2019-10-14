@@ -20,7 +20,7 @@ export default {
 <style>
     body{
         font-family:Tahoma;
-        color:blue;
+        color:black;
     }
     .newapp{
         text-align:center;
