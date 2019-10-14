@@ -18,6 +18,9 @@ export default {
 </script>
 
 <style>
+    body{
+        font-family:Verdana;
+    }
     .newapp{
         text-align:center;
         margin-top:50px;    
