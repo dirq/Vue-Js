@@ -19,7 +19,7 @@ export default {
 
 <style>
     body{
-        font-family:Verdana;
+        font-family:'Comic Sans MS';
     }
     .newapp{
         text-align:center;
