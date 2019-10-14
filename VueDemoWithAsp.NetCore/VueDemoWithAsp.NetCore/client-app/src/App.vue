@@ -19,8 +19,8 @@ export default {
 
 <style>
     body{
-        font-family:'Comic Sans MS';
-        color:red;
+        font-family:Tahoma;
+        color:blue;
     }
     .newapp{
         text-align:center;
